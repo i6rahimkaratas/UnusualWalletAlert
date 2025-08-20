@@ -83,5 +83,5 @@ def check_wallet_transactions(wallet_address, threshold_usd=100000):
             break
 
 if __name__ == "__main__":
-    btc_address = "BURAYA_IZLENECEK_BITCOIN_ADRESINI_GIRIN"
+    btc_address = "34xp4vRoCGJym3xR7yCVPFHoCNxv4Twseo"
     check_wallet_transactions(btc_address)
